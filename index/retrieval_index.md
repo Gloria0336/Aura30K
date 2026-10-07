@@ -13,9 +13,9 @@
 | `ART` | `settings/power_and_arts.md` | 仙力運作與功法體系 | 仙力的吸收轉化、種族特例、已確立的功法 |
 | `REALM` | `settings/realms.md` | 修仙境界與戰力體系 | 九加一境界、攻防品階、壽元、突破條件 |
 | `GODS` | `settings/immortal_realm_and_gods.md` | 仙界與神明 | 仙界地理、三類神明、混沌神、蠱惑機制 |
-| `CHURCH` | `settings/brahma_and_church.md` | 梵天與帝國神教 | 梵天的狀態、神諭、神教的教義與組織 |
+| `CHURCH` | `settings/brahma_and_church.md` | 梵天與帝國神教 | 梵天的狀態、神諭、神教的教義、組織與八個修會 |
 | `POL` | `settings/politics.md` | 當代帝國政治體制 | 攝政王、神教、中央軍、司法、決策體系 |
-| `MAP` | `settings/territory_and_factions.md` | 帝國版圖與主要勢力 | 大區、勢力分級、一級勢力、已登記的小勢力 |
+| `MAP` | `settings/territory_and_factions.md` | 帝國版圖與主要勢力 | 大區、勢力分級、一級勢力、已登記的小勢力、A.R.E.S. |
 | `TECH` | `settings/webway_and_technology.md` | 網道與科技體系 | 網道、節點、導航、仙石、武器裝甲與艦船 |
 | `SPECIES` | `settings/species.md` | 銀河系種族與境外勢力 | 蟲族、獸人、泰坦族、地神族、靈族、花精族 |
 | `ECON` | `settings/economy.md` | 經濟與物資 | 貨幣物價、仙力資源、運輸、稅收、民生 |
@@ -87,6 +87,8 @@
 | 神諭的來源與性質 | `CHURCH-2.S4`、`CHURCH-2.S5`、`WORLD-14.S5` |
 | 神教的教義、聖典與創立真相 | `CHURCH-3.S1`、`CHURCH-3.S2`、`CHURCH-3.S3` |
 | 神教的組織、武裝與司法 | `CHURCH-3.S5`、`CHURCH-3.S6`、`CHURCH-3.S7`、`CHURCH-3.S8`、`CHURCH-3.S9` |
+| 神教的八個修會 | `CHURCH-3A`、`CHURCH-3A.1`、`CHURCH-3A.2`、`CHURCH-3A.3`、`CHURCH-3A.4`、`CHURCH-3A.5`、`CHURCH-3A.6`、`CHURCH-3A.7`、`CHURCH-3A.8` |
+| 異端的界線（火星遺產與第一紀元） | `CHURCH-3.S7`、`MAP-4B.3` |
 | 神教與攝政王的權威之爭 | `CHURCH-3.S4`、`POL-4`、`POL-5`、`POL-6`、`POL-7`、`POL-8`、`POL-9` |
 
 ### 網道、航行與科技
@@ -124,6 +126,7 @@
 | 封建勢力的五級分級 | `MAP-3.2` |
 | 十二個一級勢力 | `MAP-4` |
 | 已登記的二級以下勢力 | `MAP-4A` |
+| A.R.E.S.、索菲亞·瑪特與火星 | `MAP-4B`、`MAP-4B.1`、`MAP-4B.2`、`MAP-4B.3`、`MAP-4B.4`、`MAP-5.3` |
 | 叛亂殘部的據點 | `MAP-5.4`、`LEGION-6A.S3`、`LEGION-9.S1` |
 | 古老裂隙與高級資源 | `MAP-5.3` |
 
@@ -377,6 +380,15 @@
   - `CHURCH-3.S11` 網道抵禦方式
   - `CHURCH-3.S12` 網道節點維護
   - `CHURCH-3.S13` 社會影響力
+- `CHURCH-3A` 三之一、修會
+  - `CHURCH-3A.1` 護教軍
+  - `CHURCH-3A.2` 武裝修女會
+  - `CHURCH-3A.3` 荊棘修女會
+  - `CHURCH-3A.4` 聖十字會
+  - `CHURCH-3A.5` 天魂修會
+  - `CHURCH-3A.6` 啟明修會
+  - `CHURCH-3A.7` 灰衣修會
+  - `CHURCH-3A.8` 牧星會
 - `CHURCH-4` 四、待補項目
 - `CHURCH-APX` 附錄：觀察與待決議題（非正典）
 
@@ -470,6 +482,11 @@
   - `MAP-3.3` 3-3 自立軍團的地位
 - `MAP-4` 四、一級勢力
 - `MAP-4A` 四之一、已登記的二級以下勢力
+- `MAP-4B` 四之二、A.R.E.S.
+  - `MAP-4B.1` 索菲亞·瑪特
+  - `MAP-4B.2` 立足之本
+  - `MAP-4B.3` 與神教的關係
+  - `MAP-4B.4` GM 層
 - `MAP-5` 五、地區要素
   - `MAP-5.1` 5-1 軍團血統分布
   - `MAP-5.2` 5-2 網道節點的維護劃分
