@@ -7,7 +7,7 @@
 
 | 代碼 | 檔案 | 文件 | 內容 |
 | :-- | :-- | :-- | :-- |
-| `WORLD` | `settings/world.md` | 世界觀設定 | 世界的總綱：仙界、仙力、裂隙、網道、修仙、當代體制的摘要 |
+| `WORLD` | `settings/world.md` | 世界觀設定 | 世界的總綱：仙界、仙力、裂隙、仙道、修仙、當代體制的摘要 |
 | `TIME` | `settings/timeline.md` | 人類文明歷史時間軸 | 三個紀元的大事年表與曆法換算 |
 | `LEGION` | `settings/legions.md` | 新人類軍團 | 創始人、軍團、大遠征、大叛亂與叛亂殘部 |
 | `ART` | `settings/power_and_arts.md` | 仙力運作與功法體系 | 仙力的吸收轉化、種族特例、已確立的功法 |
@@ -16,7 +16,7 @@
 | `CHURCH` | `settings/brahma_and_church.md` | 梵天與帝國神教 | 梵天的狀態、神諭、神教的教義、組織與八個修會 |
 | `POL` | `settings/politics.md` | 當代帝國政治體制 | 攝政王、神教、中央軍、司法、決策體系 |
 | `MAP` | `settings/territory_and_factions.md` | 帝國版圖與主要勢力 | 大區、勢力分級、一級勢力、已登記的小勢力、A.R.E.S. |
-| `TECH` | `settings/webway_and_technology.md` | 網道與科技體系 | 網道、節點、導航、仙石、武器裝甲與艦船 |
+| `TECH` | `settings/webway_and_technology.md` | 仙道與科技體系 | 仙道、節點、導航、仙石、武器裝甲與艦船 |
 | `SPECIES` | `settings/species.md` | 銀河系種族與境外勢力 | 蟲族、獸人、泰坦族、地神族、靈族、花精族 |
 | `ECON` | `settings/economy.md` | 經濟與物資 | 貨幣物價、仙力資源、運輸、稅收、民生 |
 | `HOUSE` | `settings/origin_fallen_house.md` | 玩家出身：沒落世家 | 出身模板、生成約束、洛克西亞家族 |
@@ -91,11 +91,11 @@
 | 異端的界線（火星遺產與第一紀元） | `CHURCH-3.S7`、`MAP-4B.3` |
 | 神教與攝政王的權威之爭 | `CHURCH-3.S4`、`POL-4`、`POL-5`、`POL-6`、`POL-7`、`POL-8`、`POL-9` |
 
-### 網道、航行與科技
+### 仙道、航行與科技
 
 | 想查的事 | 小節 |
 | :-- | :-- |
-| 網道的本質、侵蝕與航行時間 | `TECH-1.1`、`TECH-1.2`、`TECH-1.3`、`WORLD-8` |
+| 仙道的本質、侵蝕與航行時間 | `TECH-1.1`、`TECH-1.2`、`TECH-1.3`、`WORLD-8` |
 | 節點 | `TECH-2.1`、`TECH-2.2`、`TECH-2.3`、`TECH-2.4`、`TECH-2.5`、`MAP-5.2` |
 | 導航與宇航公會 | `TECH-3.1`、`TECH-3.2`、`TECH-3.3`、`TECH-3.4`、`ECON-4` |
 | 仙石 | `TECH-5`、`ECON-2` |
@@ -134,7 +134,7 @@
 
 | 想查的事 | 小節 |
 | :-- | :-- |
-| 種族總覽與網道航行通則 | `SPECIES-0.S3`、`SPECIES-0.S4`、`SPECIES-0.S5` |
+| 種族總覽與仙道航行通則 | `SPECIES-0.S3`、`SPECIES-0.S4`、`SPECIES-0.S5` |
 | 蟲族 | `SPECIES-1` |
 | 獸人 | `SPECIES-2`、`SPECIES-2.S2`、`SPECIES-2.S3`、`SPECIES-2.S4`、`ART-4.S1` |
 | 泰坦族與泰坦金屬 | `SPECIES-3`、`SPECIES-3.S5` |
@@ -199,7 +199,7 @@
 - `WORLD-6` 六、仙界勢力
 - `WORLD-7` 七、仙界裂隙
   - `WORLD-7.S1` 神聖泰拉大裂隙
-- `WORLD-8` 八、仙界網道
+- `WORLD-8` 八、仙界仙道
   - `WORLD-8.S1` 航行的危險
   - `WORLD-8.S2` 當代航行的兩項權責
 - `WORLD-9` 九、修仙
@@ -377,8 +377,8 @@
   - `CHURCH-3.S8` 武裝力量
   - `CHURCH-3.S9` 內部司法
   - `CHURCH-3.S10` 與禁軍、暗影衛的關係
-  - `CHURCH-3.S11` 網道抵禦方式
-  - `CHURCH-3.S12` 網道節點維護
+  - `CHURCH-3.S11` 仙道抵禦方式
+  - `CHURCH-3.S12` 仙道節點維護
   - `CHURCH-3.S13` 社會影響力
 - `CHURCH-3A` 三之一、修會
   - `CHURCH-3A.1` 護教軍
@@ -489,21 +489,21 @@
   - `MAP-4B.4` GM 層
 - `MAP-5` 五、地區要素
   - `MAP-5.1` 5-1 軍團血統分布
-  - `MAP-5.2` 5-2 網道節點的維護劃分
+  - `MAP-5.2` 5-2 仙道節點的維護劃分
   - `MAP-5.3` 5-3 古老裂隙與高級資源
   - `MAP-5.4` 5-4 叛亂殘部的據點
 - `MAP-6` 六、待補項目
 - `MAP-APX` 附錄：觀察事項（非正典）
 
-### TECH｜網道與科技體系（`settings/webway_and_technology.md`）
+### TECH｜仙道與科技體系（`settings/webway_and_technology.md`）
 
 - `TECH-LOG` 版本紀錄
 - `TECH-TAGS` 知識分層標記
-- `TECH-1` 一、網道
+- `TECH-1` 一、仙道
   - `TECH-1.1` 1-1 本質
   - `TECH-1.2` 1-2 侵蝕
   - `TECH-1.3` 1-3 航行時間
-  - `TECH-1.4` 1-4 梵天與網道
+  - `TECH-1.4` 1-4 梵天與仙道
   - `TECH-1.5` 1-5 大裂隙的影響
 - `TECH-2` 二、節點
   - `TECH-2.1` 2-1 本質
@@ -544,7 +544,7 @@
 - `SPECIES-0` 零、術語與衡量基準
   - `SPECIES-0.S1` 「外來／境外」
   - `SPECIES-0.S2` 兩套衡量基準
-  - `SPECIES-0.S3` 網道航行通則
+  - `SPECIES-0.S3` 仙道航行通則
   - `SPECIES-0.S4` 疆域方位
   - `SPECIES-0.S5` 總覽
 - `SPECIES-1` 一、蟲族
@@ -654,7 +654,7 @@
   - `HOUSE-4.3` 3. 殘存資產
   - `HOUSE-4.3A` 3 之一. 領地與鄰居
   - `HOUSE-4.4` 4. 家傳能力
-  - `HOUSE-4.5` 5. 網道抵禦方式
+  - `HOUSE-4.5` 5. 仙道抵禦方式
   - `HOUSE-4.6` 6. 境外關係
   - `HOUSE-4.7` 7. 政治位置
   - `HOUSE-4.8` 8. 末代處境
