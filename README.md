@@ -18,7 +18,7 @@ campaigns/
     roster_characters.md  人物名冊
     roster_locations.md   地點名冊
     generated_content.md  GM 生成、待設計者決定是否收編的內容
-    logs/                 每場遊玩的全文
+    logs/                 每場的完整敘事（GM 於收尾時輸出，見 RULE-6.8）
 ```
 
 各檔的代碼、路徑與內容見 `index/retrieval_index.md` 第一部分。
