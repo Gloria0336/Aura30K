@@ -19,6 +19,8 @@ campaigns/
     roster_locations.md   地點名冊
     generated_content.md  GM 生成、待設計者決定是否收編的內容
     logs/                 每場的完整敘事（GM 於收尾時輸出，見 RULE-6.8）
+stories/      側寫：設計者事先寫好的世界側寫短篇，按系列分資料夾
+  README.md   用法、欄位與編號規則
 ```
 
 各檔的代碼、路徑與內容見 `index/retrieval_index.md` 第一部分。
@@ -32,6 +34,7 @@ campaigns/
 - 標題沒有節號者，依在上層小節中的順序記為 `S1`、`S2`，或接續上層編號。
 - 固定名稱的小節使用代稱：`LOG`（版本紀錄）、`TAGS`（知識分層標記）、`SCOPE`（文件定位）、`APX`（附錄）。
 - 編號一經發布不得更改或重複使用。新增小節時取新的編號，不重編既有小節。
+- 側寫以「章」為最小單位，編號格式為 `ST-<系列代稱>-<三位數章號>`，例如 `ST-REBEL-001`，章內不編節號。詳見 `stories/README.md`。
 
 ## 給 GM 的使用順序
 
@@ -39,6 +42,8 @@ campaigns/
 2. 讀 `campaigns/roxia/save.md` 與 `campaigns/roxia/backstage.md`。
 3. 需要查設定時，先查 `index/retrieval_index.md`，再讀所指的小節。
 4. 每場結束時更新存檔與後台紀錄；新生成的專有名詞登記到 `generated_content.md`。
+
+側寫（`stories/`）不在上述順序內。GM 預設不讀側寫，只有玩家指定或需要查證時才讀，規則見 `RULE-6.9`。
 
 ## 知識分層
 
@@ -48,3 +53,4 @@ campaigns/
 
 - 修改任何文件時，一併更新 `index/retrieval_index.md`。
 - 各檔的版號與「版本紀錄」停留在搬遷時的版本，之後的修改歷史由本儲存庫記錄。
+- 新增、更名或調整側寫時，一併更新索引的「側寫目錄」；側寫中新引入的設定，回填到 `settings/` 後才算確立。
